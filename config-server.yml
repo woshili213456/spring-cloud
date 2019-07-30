@@ -16,4 +16,4 @@ spring:
 mybatis:
   mapper-locations: classpath*:mybatis/mapper/*.xml
   
- info:123456778
+info:123456778
