@@ -15,3 +15,5 @@ spring:
     database-platform: org.hibernate.dialect.MySQLDialect
 mybatis:
   mapper-locations: classpath*:mybatis/mapper/*.xml
+  
+ info:123456778
